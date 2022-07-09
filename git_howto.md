@@ -32,3 +32,8 @@
     git checkout HEX_Addr
     ```
 
+* Вернуться к актуальному состоянию и продолжить работу:
+    ```sh
+    git checkout master
+    ```
+
